@@ -8,4 +8,4 @@ Clima is a location-aware weather app (MVC) allowing users to check current weat
 
 
 
-![app_ss](ss.png) 
+![app_ss](app_ss.png) 
